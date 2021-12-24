@@ -1,0 +1,6 @@
+[submodule "osiris-frontend"]
+	path = osiris-frontend
+	url = https://github.com/francislagueu/osiris-frontend.git
+[submodule "osiris-backend"]
+	path = osiris-backend
+	url = https://github.com/francislagueu/osiris-backend.git
